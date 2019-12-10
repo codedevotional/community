@@ -1,3 +1,3 @@
 # Community
 
-Please submit your codedevotional.com ideas and feedback at https://github.com/codedevotional/community/issues.
+Please submit your https://codedevotional.com ideas and feedback at https://github.com/codedevotional/community/issues.
